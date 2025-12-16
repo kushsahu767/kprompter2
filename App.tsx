@@ -10,6 +10,12 @@ import { HistoryPanel } from './components/HistoryPanel.tsx';
 import { ModelsPage } from './components/ModelsPage.tsx';
 import { TemplatesPage } from './components/TemplatesPage.tsx';
 import { EnterprisePage } from './components/EnterprisePage.tsx';
+import { FavoritesPanel } from './components/FavoritesPanel';
+import { HistoryPanel } from './components/HistoryPanel';
+import { ModelsPage } from './components/ModelsPage';
+import { TemplatesPage } from './components/TemplatesPage';
+import { EnterprisePage } from './components/EnterprisePage';
+>>>>>>> a0e154e672dd57983ab95624fa3f2aa2f84d56c1
 
 import { generateOptimizedPrompt } from './services/geminiService';
 import { saveUsageData, getFavorites, saveFavorite, removeFavorite, isFavorite, getHistory, clearHistory } from './services/dbService';
