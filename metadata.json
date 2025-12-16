@@ -1,0 +1,5 @@
+{
+  "name": "kprompter",
+  "description": "An advanced meta-prompting tool that uses Gemini to generate optimized prompts for various AI models.",
+  "requestFramePermissions": []
+}
